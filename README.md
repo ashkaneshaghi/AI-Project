@@ -3,29 +3,6 @@ Small Project of AI for university that works with sklearn datasets.
 
 It actually loads the sklearn datasets and train with different algorithms and show the result with some visualisation.
 
-
-# Datasets
-
-1- Boston Dataset<br>
-2- BreastCancer Dataset
-3- MNIST Dataset
-4- Diabetes Dataset (Classification Version)
-5- Iris Dataset
-
-# Training Algorithms
-
-1- KNN Regression
-2- Linear Regression
-3- Polynomial Regression
-4- Support Vector Regression
-5- Multi-Layer Perceptron Regression
-6- KNN Classifier
-7- Logistic Regression
-8- Decision Tree Classifier
-9- Random Forest Classifier
-10- Multi-Layer Perceptron Classifier
-
-
 # Following Libraries needed for the Project
 
 ```
@@ -36,3 +13,23 @@ pip install joblib
 pip install matplotlib
 ```
 
+# Datasets
+
+1- Boston Dataset<br>
+2- BreastCancer Dataset<br>
+3- MNIST Dataset<br>
+4- Diabetes Dataset (Classification Version)<br>
+5- Iris Dataset<br>
+
+# Training Algorithms
+
+1- KNN Regression<br>
+2- Linear Regression<br>
+3- Polynomial Regression<br>
+4- Support Vector Regression<br>
+5- Multi-Layer Perceptron Regression<br>
+6- KNN Classifier<br>
+7- Logistic Regression<br>
+8- Decision Tree Classifier<br>
+9- Random Forest Classifier<br>
+10- Multi-Layer Perceptron Classifier<br>

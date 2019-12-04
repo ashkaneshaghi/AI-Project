@@ -1,8 +1,16 @@
 # AI-Project
 Small Project of AI for university that works with sklearn datasets.
 
-it actually load the datasets and train with different algorithms and show the result with some visualisation.
+It actually loads the sklearn datasets and train with different algorithms and show the result with some visualisation.
 
+
+# Datasets
+
+1- Boston Dataset
+2- BreastCancer Dataset
+3- MNIST Dataset
+4- Diabetes Dataset (Classification Version)
+5- Iris Dataset
 
 
 

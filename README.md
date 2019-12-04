@@ -7,11 +7,14 @@ It actually loads the sklearn datasets and train with different algorithms and s
 # Datasets
 
 1- Boston Dataset
-2- BreastCancer Dataset
-3- MNIST Dataset
-4- Diabetes Dataset (Classification Version)
-5- Iris Dataset
 
+2- BreastCancer Dataset
+
+3- MNIST Dataset
+
+4- Diabetes Dataset (Classification Version)
+
+5- Iris Dataset
 
 
 # Following Libraries needed for the Project
